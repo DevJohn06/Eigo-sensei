@@ -1,2 +1,11 @@
-# Eigo-senseo
-one page personal website, currently live
+# project title: 
+Eigo-Sensei
+
+# project details: 
+One pager website
+
+# languages: 
+English
+
+# current progress: 
+Published 
