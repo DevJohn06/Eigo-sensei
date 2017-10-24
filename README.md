@@ -5,7 +5,7 @@ Eigo-Sensei
 One pager website
 
 # languages: 
-English
+CSS, JS, HTML 
 
 # current progress: 
 Published 
