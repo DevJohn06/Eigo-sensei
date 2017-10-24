@@ -1,11 +1,18 @@
-# project title: 
-Eigo-Sensei
 
-# project details: 
-One pager website
+# Project Title
 
-# languages: 
-CSS, JS, HTML 
+Simple landing page created by Adly Loukil.
 
-# current progress: 
-Published 
+## Built With
+
+Basic HTML, CSS, Javascript, bootstrap v3, and jquery 1.10
+
+## Used languages
+
+- English
+- Japanese (In progress)
+
+## Future scope
+
+- This website will be soon launched in Japanese language too.
+
